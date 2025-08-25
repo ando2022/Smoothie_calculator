@@ -8,7 +8,7 @@ from streamlit_folium import st_folium
 from geopy.distance import geodesic
 
 # Load smoothie competitor data
-path = "/Users/anastasiiadobson/Library/CloudStorage/Dropbox/WORK/BOOTCAMP/SMOOTHIES/geo_data/zurich_smoothie_places_with_ids.csv"
+path = "zurich_smoothie_places_with_ids.csv"
 df = pd.read_csv(path)
 
 st.set_page_config(layout="wide")
