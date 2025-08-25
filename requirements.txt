@@ -4,3 +4,4 @@ numpy
 spacy
 matplotlib
 seaborn
+folium
