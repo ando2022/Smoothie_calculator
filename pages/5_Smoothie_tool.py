@@ -21,7 +21,7 @@ layer_proportions = [0.2, 0.2, 0.2, 0.3, 0.1]
 layer_colors = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd']
 
 # ==== Load CSV ====
-path = "/Users/anastasiiadobson/Library/CloudStorage/Dropbox/WORK/BOOTCAMP/SMOOTHIES/smoothie_tool/smoothies_all_goals.csv"
+path = "smoothies_all_goals.csv"
 
 @st.cache_data
 def load_data():
