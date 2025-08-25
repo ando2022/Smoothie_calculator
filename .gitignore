@@ -24,10 +24,9 @@ data/bluesky_creds.json
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,macos,jupyternotebooks,windows,linux,data,pycharm,visualstudiocode,dbeaver
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,macos,jupyternotebooks,windows,linux,data,pycharm,visualstudiocode,dbeaver
-
+keys.py
 ### Data ###
 *.db
-*.csv
 *.tsv
 *.json
 *.geojson

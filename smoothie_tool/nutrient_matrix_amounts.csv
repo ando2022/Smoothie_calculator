@@ -1,0 +1,170 @@
+Ingredient,Complex Carbohydrates,Iron,B-Vitamins,Magnesium,Adaptogen,Fiber,Low Glycemic Load,Protein,Prebiotics,Probiotics,BCAAs,Creatine,Antioxidants,Polyphenols,Omega-3,Anti-inflammatory agents
+coconut water,2.61g,0.29mg,"{'B1': '0.03mg', 'B2': '0.055mg', 'B3': '0.23mg', 'B6': '0.054mg', 'B9': 'Unknown', 'B12': 'Unknown'}",25mg,No,0.7g,Yes,0.72g,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+orange juice,8.3,0.2,"{'B1': 0.09, 'B2': 0.04, 'B3': 0.6, 'B6': 0.05, 'B9': 14, 'B12': 'Unknown'}",11,No,0.2,Yes,0.7,No,No,Unknown,Unknown,Unknown,13,Unknown,Unknown
+almond milk,0.5g,0.3mg,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",15mg,No,0.5g,Yes,0.5g,No,No,Unknown,No,Unknown,Unknown,Unknown,Unknown
+oat milk,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+green tea,Unknown,0.02,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,0,Yes,0,Unknown,No,Unknown,No,Unknown,150,Unknown,Yes
+cashew milk,2.9g,0.4mg,"{'B1': '0.1mg', 'B2': '0.1mg', 'B3': '0.5mg', 'B6': '0.1mg', 'B9': 'Unknown', 'B12': 'Unknown'}",29mg,No,0g,Yes,0.5g,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+macadamia milk,1g,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,No,No,Unknown,No,Unknown,Unknown,Unknown,Unknown
+watermelon juice,7.55g,Unknown,"{'B1': '0.033mg', 'B2': '0.021mg', 'B3': '0.178mg', 'B6': '0.045mg', 'B9': '3µg', 'B12': 'Unknown'}",10mg,No,0.4g,Yes,0.61g,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+maple water,6g,0.4mg,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,0.2g,Yes,0.1g,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+carrot juice,9.6,0.3,"{'B1': 0.07, 'B2': 0.05, 'B3': 0.983, 'B6': 0.138, 'B9': 19, 'B12': 'Unknown'}",12,No,0.6,Yes,0.7,No,No,Unknown,Unknown,Unknown,4.9,Unknown,Unknown
+apple juice,10.4,0.2,"{'B1': 0.01, 'B2': 0.02, 'B3': 0.19, 'B6': 0.01, 'B9': 2, 'B12': 'Unknown'}",4,No,0.2,Yes,0.1,No,No,Unknown,Unknown,Unknown,5,Unknown,Unknown
+banana,22,0.3,"{'B1': 0.03, 'B2': 0.07, 'B3': 0.6, 'B6': 0.4, 'B9': 20, 'B12': 'Unknown'}",27,No,2.6,Yes,1.1,Yes,No,Unknown,Unknown,Unknown,90,Unknown,Yes
+mango,14.98,0.16,"{'B1': 0.063, 'B2': 0.057, 'B3': 0.669, 'B6': 0.119, 'B9': 43, 'B12': 'Unknown'}",10,No,1.6,Yes,0.82,No,No,Unknown,Unknown,Unknown,0,0,Unknown
+pineapple,13.1g,0.3mg,"{'B1': '0.08mg', 'B2': '0.03mg', 'B3': '0.5mg', 'B6': '0.1mg', 'B9': '18µg', 'B12': 'Unknown'}",12mg,No,1.4g,Yes,0.5g,Yes,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+dates,75.03,1.02,"{'B1': 0.05, 'B2': 0.1, 'B3': 1.61, 'B6': 0.25, 'B9': 0.006, 'B12': 'Unknown'}",54,No,6.7,Yes,2.45,No,No,Unknown,Unknown,Unknown,39.3,Unknown,Unknown
+peaches,9.5,0.25,"{'B1': 0.028, 'B2': 0.031, 'B3': 0.806, 'B6': 0.025, 'B9': 4, 'B12': 'Unknown'}",9,No,1.5,Yes,0.9,No,No,Unknown,Unknown,Unknown,14,Unknown,Unknown
+berries,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+apple,13.8,0.12,"{'B1': 0.017, 'B2': 0.026, 'B3': 0.091, 'B6': 0.041, 'B9': 2, 'B12': 'Unknown'}",10,No,2.4,Yes,0.3,No,No,Unknown,No,Unknown,5,Unknown,Unknown
+papaya,11,0.25,"{'B1': 0.04, 'B2': 0.05, 'B3': 0.357, 'B6': 0.1, 'B9': 38, 'B12': 'Unknown'}",21,No,1.7,No,0.5,Unknown,No,Unknown,Unknown,Unknown,68,Unknown,Unknown
+cantaloupe,8.16,0.21,"{'B1': 0.041, 'B2': 0.019, 'B3': 0.734, 'B6': 0.072, 'B9': 21, 'B12': 'Unknown'}",12,No,0.9,Yes,0.84,Yes,Unknown,Unknown,Unknown,Unknown,175,Unknown,Unknown
+pear,15.5,0.3,"{'B1': 0.012, 'B2': 0.025, 'B3': 0.209, 'B6': 0.029, 'B9': 7, 'B12': 'Unknown'}",9,No,3.1,Yes,0.4,No,No,Unknown,Unknown,Unknown,41,Unknown,Unknown
+acai puree,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+rolled oats,60,4.7,"{'B1': 0.4, 'B2': 0.1, 'B3': 0.9, 'B6': 0.1, 'B9': 56, 'B12': 'Unknown'}",177,No,10,Yes,13,No,No,Unknown,Unknown,Unknown,0,1.2,Unknown
+chia seeds,8.6g,6.5mg,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': '50µg', 'B12': 'Unknown'}",335mg,No,34.4g,Yes,16.5g,Yes,No,Unknown,Unknown,Unknown,Unknown,17.83g,Yes
+psyllium husk,82g,7.5mg,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",400mg,No,66g,Yes,2g,Yes,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+flaxseed,1.6g,5.7mg,"{'B1': '0.3mg', 'B2': '0.2mg', 'B3': '2.5mg', 'B6': '0.5mg', 'B9': '87µg', 'B12': 'Unknown'}",392mg,No,27.3g,Yes,18.3g,Yes,No,Unknown,Unknown,Unknown,Unknown,22.8g,['Omega-3 fatty acids']
+apple skin,13.8,0.12,"{'B1': 0.017, 'B2': 0.026, 'B3': 0.091, 'B6': 0.041, 'B9': 3, 'B12': 'Unknown'}",6,No,2.4,Yes,0.3,Yes,No,Unknown,Unknown,Unknown,2,Unknown,Unknown
+beetroot,9.6,0.8,"{'B1': 0.03, 'B2': 0.04, 'B3': 0.33, 'B6': 0.1, 'B9': 109, 'B12': 'Unknown'}",23,No,2.8,Yes,1.6,Unknown,Unknown,Unknown,Unknown,Unknown,136,Unknown,Unknown
+barley flakes,71g,3.6mg,"{'B1': '0.41mg', 'B2': '0.12mg', 'B3': '4.6mg', 'B6': '0.9mg', 'B9': '40µg', 'B12': 'Unknown'}",133mg,No,13.6g,Yes,9.9g,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+quinoa flakes,64.2,4.6,"{'B1': 0.36, 'B2': 0.32, 'B3': 1.52, 'B6': 0.5, 'B9': 184, 'B12': 'Unknown'}",197,No,7,Yes,13.1,Unknown,Unknown,Unknown,Unknown,Unknown,20,Unknown,Unknown
+pumpkin puree,6g,1.4mg,"{'B1': '0.05mg', 'B2': '0.11mg', 'B3': '1.2mg', 'B6': '0.09mg', 'B9': '20µg', 'B12': 'Unknown'}",12mg,No,1g,Yes,1g,Yes,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+figs,19.2,3.3,"{'B1': 0.085, 'B2': 0.05, 'B3': 0.62, 'B6': 0.113, 'B9': 9, 'B12': 'Unknown'}",68,No,2.9,Yes,0.8,No,No,Unknown,Unknown,Unknown,68,Unknown,Unknown
+greek yogurt,3.6g,0.2mg,"{'B1': '0.03mg', 'B2': '0.2mg', 'B3': '0.9mg', 'B6': 'Unknown', 'Folate (B9)': 'Unknown', 'B12': 'Unknown'}",11mg,No,Unknown,Yes,10g,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+hemp protein,7g,25mg,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,50g,No,No,Yes,No,Unknown,Unknown,0.5g,Unknown
+silken tofu,1.9,0.6,"{'B1': 0.02, 'B2': 0.1, 'B3': 0.1, 'B6': 0.02, 'B9': 31, 'B12': 0}",24,No,0.2,Yes,8,No,No,Unknown,No,Unknown,0,0.1,Unknown
+nut butter,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+sunflower seed butter,20.0,5.0,"{'B1': 0.3, 'B2': 0.1, 'B3': 10.0, 'B6': 0.7, 'B9': 50.0, 'B12': 'Unknown'}",370.0,No,8.0,Yes,20.0,No,No,Unknown,No,Unknown,200.0,Unknown,Unknown
+skyr,4.7g,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,11.5g,No,Yes,Unknown,No,Unknown,Unknown,Unknown,Unknown
+pumpkin seed protein,10,7.5,"{'B1': 0.2, 'B2': 0.1, 'B3': 2.2, 'B6': 0.3, 'B9': 40, 'B12': 'Unknown'}",500,No,9,Yes,60,Yes,No,Unknown,Unknown,Unknown,300,Unknown,Yes
+spirulina,16g,28.5mg,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",195mg,Yes,3.6g,Yes,60g,Unknown,Unknown,Unknown,Unknown,ORAC value not available,Unknown,Unknown,Unknown
+ricotta,3.98g,0.2mg,"{'B1': '0.012mg', 'B2': '0.234mg', 'B3': '0.15mg', 'B6': '0.06mg', 'B9': '9µg', 'B12': 'Unknown'}",23mg,No,Unknown,Yes,11.26g,No,No,Unknown,Unknown,Unknown,Unknown,0.02g,Unknown
+almond butter,18.7,3.3,"{'B1': 0.2, 'B2': 0.3, 'B3': 3.7, 'B6': 0.3, 'B9': 50, 'B12': 'Unknown'}",270,No,11.0,Yes,21.1,No,No,Unknown,Unknown,Unknown,135,Unknown,Yes
+cinnamon,54.3g,8.3mg,"{'B1': '0.04mg', 'B2': '0.04mg', 'B3': '1.33mg', 'B6': '0.16mg', 'B9': '6µg', 'B12': '0µg'}",60mg,No,24.6g,Yes,3.9g,No,No,Unknown,No,Unknown,131mg,0.14g,Yes
+nutmeg,49.73g,8.06mg,"{'B1': '0.346mg', 'B2': '0.057mg', 'B3': '1.299mg', 'B6': '0.160mg', 'B9': '76µg', 'B12': '0µg'}",183mg,No,21g,Yes,5.8g,No,No,Unknown,Unknown,Unknown,39mg,0.033g,Unknown
+cardamom,68g,13.97mg,"{'B1': '0.19mg', 'B2': '0.18mg', 'B3': '1.1mg', 'B6': '0.23mg', 'B9': '10µg', 'B12': 'Unknown'}",229mg,No,28g,Yes,11g,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Yes
+vanilla extract,15g,0.1mg,"{'B1': '0.018mg', 'B2': '0.02mg', 'B3': '0.052mg', 'B6': '0.06mg', 'B9': '2µg', 'B12': 'Unknown'}",12mg,No,0g,Yes,0g,No,No,Unknown,Unknown,Unknown,Unknown,0g,Unknown
+cacao powder,21g,13.9mg,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': '2.3mg', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",499mg,No,37g,Yes,19g,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+cacao nibs,41g,6.2mg,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",272mg,No,37g,Yes,13g,No,No,Unknown,No,Unknown,200mg,0.6g,Yes
+shredded coconut,15.2g,2.3mg,"{'B1': '0.07mg', 'B2': '0.14mg', 'B3': '1.2mg', 'B6': '0.3mg', 'B9': '26µg', 'B12': 'Unknown'}",32mg,No,9g,Yes,3.3g,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+mint,8.4,5.08,"{'B1': 0.09, 'B2': 0.2, 'B3': 1.3, 'B6': 0.129, 'B9': 27, 'B12': 'Unknown'}",67,No,8,Yes,1.7,No,No,Unknown,No,Unknown,15,Unknown,Yes
+orange zest,25g,1.6mg,"{'B1': '0.1mg', 'B2': '0.1mg', 'B3': '0.9mg', 'B6': '0.1mg', 'B9': '32µg', 'B12': 'Unknown'}",10mg,No,2.8g,Yes,1.5g,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+rosewater,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,No,No,Unknown,No,Unknown,Unknown,Unknown,Unknown
+sea salt,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,0,Yes,0,No,No,Unknown,No,Unknown,Unknown,Unknown,Unknown
+water,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,No,No,Unknown,No,Unknown,Unknown,Unknown,No
+cucumber water,2.2,0.2,"{'B1': 0.027, 'B2': 0.033, 'B3': 0.098, 'B6': 0.04, 'B9': 7, 'B12': 'Unknown'}",12,No,0.5,Yes,0.8,No,No,Unknown,No,Unknown,5,Unknown,Unknown
+cold brew tea,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+celery juice,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,No,Unknown,Unknown,Unknown,Unknown
+lemon water,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,No,No,No,No,Unknown,Unknown,Unknown,Unknown
+spinach water,Unknown,2.7,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 0.724, 'B6': 'Unknown', 'B9': 194, 'B12': 'Unknown'}",79,No,2.2,Yes,2.9,Yes,No,Unknown,No,Unknown,194,Unknown,Unknown
+bone broth,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+hibiscus tea,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+ice cubes,0,0,"{'B1': 0, 'B2': 0, 'B3': 0, 'B6': 0, 'B9': 0, 'B12': 0}",0,No,0,Yes,0,No,No,Unknown,No,Unknown,0,0,No
+zucchini,3.1,0.4,"{'B1': 0.05, 'B2': 0.08, 'B3': 1, 'B6': 0.16, 'B9': 24, 'B12': 'Unknown'}",16,No,1,Yes,1.2,Unknown,No,Unknown,No,Unknown,200,Unknown,Yes
+cucumber,3.6,0.2,"{'B1': 0.027, 'B2': 0.033, 'B3': 0.098, 'B6': 0.04, 'B9': 16, 'B12': 'Unknown'}",9,No,1,Yes,0.7,Yes,Unknown,Unknown,No,Unknown,4.7,Unknown,Unknown
+spinach,3.6,2.7,"{'B1': 0.08, 'B2': 0.19, 'B3': 0.6, 'B6': 0.2, 'B9': 194, 'B12': 'Unknown'}",79,No,2.2,Yes,2.9,Yes,No,Unknown,Unknown,Unknown,190,Unknown,Yes
+kale,8,1.5,"{'B1': 0.1, 'B2': 0.1, 'B3': 1, 'B6': 0.2, 'B9': 141, 'B12': 'Unknown'}",33,No,2,Yes,4.3,Yes,No,Unknown,Unknown,Unknown,30,0.02,Yes
+cauliflower,4.97,0.42,"{'B1': 0.05, 'B2': 0.06, 'B3': 0.5, 'B6': 0.22, 'B9': 57, 'B12': 'Unknown'}",15,No,2,Yes,1.92,Yes,No,Unknown,No,Unknown,0.62,Unknown,Yes
+avocado,Unknown,0.55,"{'B1': 0.07, 'B2': 0.13, 'B3': 1.74, 'B6': 0.26, 'B9': 81}",29,No,6.7,Yes,2,No,No,Unknown,No,Unknown,14,0.07,Yes
+green apple,14,0.2,"{'B1': 0.017, 'B2': 0.026, 'B3': 0.091, 'B6': 0.041, 'B9': 3, 'B12': 'Unknown'}",5,No,2,Yes,0.3,No,No,Unknown,Unknown,Unknown,5,Unknown,Yes
+celery,2.97,0.2,"{'B1': 0.021, 'B2': 0.057, 'B3': 0.32, 'B6': 0.074, 'B9': 36, 'B12': 'Unknown'}",11,No,1.6,Yes,0.69,Unknown,No,No,No,Unknown,6,Unknown,Unknown
+broccoli,6.64,0.73,"{'B1': 0.071, 'B2': 0.117, 'B3': 0.639, 'B6': 0.175, 'B9': 63, 'B12': 'Unknown'}",21,No,2.6,Yes,2.82,Yes,No,Unknown,No,Unknown,147,Unknown,Yes
+beet,9.6,0.8,"{'B1': 0.03, 'B2': 0.04, 'B3': 0.33, 'B6': 0.08, 'B9': 109, 'B12': 'Unknown'}",23,No,2.8,Yes,1.6,Unknown,No,Unknown,No,Unknown,100,Unknown,Yes
+konjac powder,9g,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,Yes,No,Unknown,No,Unknown,Unknown,Unknown,Unknown
+apple pectin,81g,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,65g,Yes,Unknown,Yes,Yes,Unknown,No,Unknown,Unknown,Unknown,Unknown
+carrot,9.6,0.3,"{'B1': 0.066, 'B2': 0.058, 'B3': 0.983, 'B6': 0.138, 'B9': 19, 'B12': 'Unknown'}",12,No,2.8,Yes,0.9,Unknown,Unknown,Unknown,Unknown,Unknown,94,Unknown,Unknown
+oat bran,66.3,6.5,"{'B1': 0.2, 'B2': 0.1, 'B3': 4.0, 'B6': 0.5, 'B9': 0, 'B12': 0}",235,No,15.4,Yes,17.3,No,No,Unknown,Unknown,Unknown,16,0.6,Unknown
+inulin,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,Yes,No,Unknown,No,Unknown,Unknown,Unknown,Unknown
+hemp hearts,14g,14mg,"{'B1': '1.3mg', 'B2': '0.3mg', 'B3': '2.8mg', 'B6': '0.4mg', 'B9': '110µg', 'B12': 'Unknown'}",700mg,No,10g,Yes,30g,Yes,No,Yes,Unknown,Unknown,Unknown,Unknown,Yes
+bok choy,2.2g,0.8mg,"{'B1': '0.07mg', 'B2': '0.11mg', 'B3': '0.5mg', 'B6': '0.19mg', 'B9': '97µg', 'B12': 'Unknown'}",20mg,No,1g,Yes,1.5g,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+plant protein powder,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Varies,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+egg white powder,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,Unknown,No,Unknown,No,Unknown,Unknown,Unknown,Unknown
+soy milk,1.2g,0.6mg,"{'B1': '0.1mg', 'B2': '0.1mg', 'B3': '0.5mg', 'B6': '0.1mg', 'B9': '15µg', 'B12': '0µg'}",34mg,No,0.2g,Yes,3.3g,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+cottage cheese,3.4,0.4,"{'B1': 0.03, 'B2': 0.21, 'B3': 0.1, 'B6': 0.05, 'B9': 21, 'B12': 0.4}",11,No,0,Yes,10.4,No,Yes,Unknown,Unknown,Unknown,7,0.2,No
+chia protein,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+lentil protein,50g,7mg,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': '4mg', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",100mg,No,25g,Yes,25g,Yes,No,Unknown,No,Unknown,50mg,0.1g,Yes
+pea protein,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,No,No,Unknown,No,Unknown,Unknown,Unknown,Unknown
+tofu,1.9,1.7,"{'B1': 0, 'B2': 0.1, 'B3': 0.4, 'B6': 0.1, 'B9': 18, 'B12': 0}",54,No,0.9,Yes,8,No,No,Unknown,No,Unknown,19,0.1,Unknown
+seitan,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+ginger,17.8,0.6,"{'B1': 0.025, 'B2': 0.034, 'B3': 0.75, 'B6': 0.16, 'B9': 11, 'B12': 'Unknown'}",43,Yes,2,Yes,1.8,Unknown,Unknown,Unknown,Unknown,Unknown,0,Unknown,Yes
+lemon zest,2.5g,1.6mg,"{'B1': '0.04mg', 'B2': '0.08mg', 'B3': '0.37mg', 'B6': '0.1mg', 'B9': '11µg', 'B12': 'Unknown'}",8mg,No,10.6g,Yes,1.1g,Yes,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+matcha,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,Yes,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+cayenne,9g,8.7mg,"{'B1': '0.113mg', 'B2': '0.130mg', 'B3': '8.282mg', 'B6': '1.819mg', 'B9': '61µg', 'B12': 'Unknown'}",64mg,No,27.2g,Yes,10.3g,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Yes
+cucumber-mint,3.6g,0.1mg,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",13mg,No,0.5g,Yes,0.7g,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Yes
+apple cider vinegar,0.0 grams,0.0 mg,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",0.0 mg,No,0.0 grams,Yes,0.0 grams,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+baobab,75g,8mg,"{'B1': '0.1mg', 'B2': '0.1mg', 'B3': '7mg', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,45g,Yes,2g,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+green coffee extract,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+kefir,4.5g,0.1mg,"{'B1': '0.02mg', 'B2': '0.12mg', 'B3': '0.62mg', 'B6': '0.03mg', 'B9': '20µg', 'B12': '0.4µg'}",30mg,No,0g,Yes,3.5g,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+aloe vera juice,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+cucumber juice,1.5,0.2,"{'B1': 0.027, 'B2': 0.033, 'B3': 0.098, 'B6': 0.04, 'B9': 7, 'B12': 'Unknown'}",12,No,0.5,Yes,0.6,No,No,Unknown,No,Unknown,12,Unknown,Unknown
+ginger tea,2g,0.2mg,"{'B1': '0.01mg', 'B2': '0.02mg', 'B3': '0.2mg', 'B6': '0.02mg', 'B9': '11µg', 'B12': 'Unknown'}",10mg,Yes,Unknown,Yes,0.1g,No,No,Unknown,No,Unknown,50mg,Unknown,Yes
+kombucha,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,Yes,Unknown,Unknown,Unknown,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+chamomile tea,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,Yes,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+fennel tea,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+kiwi,14.7g,0.3mg,"{'B1': '0.027mg', 'B2': '0.025mg', 'B3': '0.341mg', 'B6': '0.063mg', 'B9': '22µg', 'B12': 'Unknown'}",17mg,No,2.1g,Yes,1.1g,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+cooked oats,60,4.7,"{'B1': 0.4, 'B2': 0.1, 'B3': 0.9, 'B6': 0.1, 'B9': 56, 'B12': 'Unknown'}",177,No,10,Yes,13,Yes,No,Unknown,Unknown,Unknown,13,Unknown,Unknown
+artichoke hearts,5,1.28,"{'B1': 0.07, 'B2': 0.13, 'B3': 1.11, 'B6': 0.07, 'B9': 68, 'B12': 'Unknown'}",60,No,5,Yes,3.27,No,No,Unknown,No,Unknown,292,Unknown,Unknown
+sauerkraut,4.2,1.5,"{'B1': 0.02, 'B2': 0.05, 'B3': 0.6, 'B6': 0.1, 'B9': 24, 'B12': 'Unknown'}",15,No,4.5,Yes,1.3,Yes,Yes,Unknown,Unknown,Unknown,3,Unknown,Yes
+green banana,22.8,0.3,"{'B1': 0.04, 'B2': 0.073, 'B3': 0.665, 'B6': 0.367, 'B9': 20, 'B12': 'Unknown'}",37,No,2.6,Yes,1.3,Yes,No,Unknown,Unknown,Unknown,0,Unknown,Unknown
+ground hemp,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+almond yogurt,5g,1.2mg,"{'B1': '0.03mg', 'B2': '0.09mg', 'B3': '0.5mg', 'B6': '0.06mg', 'B9': 'Unknown', 'B12': 'Unknown'}",50mg,No,1g,Yes,2g,Unknown,Yes,Unknown,Unknown,Unknown,5mg,0g,Unknown
+soft tofu,1.5,0.8,"{'B1': 0.04, 'B2': 0.1, 'B3': 0.6, 'B6': 0.1, 'B9': 41.0, 'B12': 'Unknown'}",21,No,0.3,Yes,6.9,No,No,Unknown,Unknown,Unknown,8,Unknown,Unknown
+bone broth protein,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+collagen peptides,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+chia + almond milk,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+turmeric,65g,41mg,"{'B1': '0.1mg', 'B2': '0.2mg', 'B3': '1.3mg', 'B6': '0.2mg', 'B9': '0.01mg', 'B12': 'Unknown'}",250mg,Yes,21g,Yes,8g,Yes,No,Unknown,No,Unknown,100mg,Unknown,Yes
+fennel seeds,52g,18.5mg,"{'B1': '0.35mg', 'B2': '0.32mg', 'B3': '6.1mg', 'B6': '0.47mg', 'B9': '274µg', 'B12': 'Unknown'}",392mg,No,39.8g,Yes,15.8g,Yes,No,Unknown,Unknown,Unknown,Unknown,Unknown,Yes
+dill,3.67,1.32,"{'B1': 0.08, 'B2': 0.15, 'B3': 1.6, 'B6': 0.15, 'B9': 27, 'B12': 'Unknown'}",55,No,2.1,Yes,3.46,Unknown,Unknown,Unknown,Unknown,Unknown,55,Unknown,Unknown
+lemon juice,2.5,0.6,"{'B1': 0.04, 'B2': 0.02, 'B3': 0.1, 'B6': 0.08, 'B9': 11, 'B12': 'Unknown'}",6,No,0.2,Yes,0.4,No,No,Unknown,Unknown,Unknown,8,Unknown,Unknown
+licorice root extract,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+manuka honey,82g,0.42mg,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,Unknown,Unknown,Unknown,Unknown
+fermented spirulina,Unknown,28.5,"{'B1': 'Unknown', 'B2': '1.15 mg', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': '609 µg', 'B12': 'Unknown'}",194,Yes,Unknown,Yes,60,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+milk,4.8,0.1,"{'B1': 0.04, 'B2': 0.18, 'B3': 0.1, 'B6': 0.05, 'B9': 10, 'B12': 0.4}",10,No,Unknown,Unknown,3.2,No,No,Unknown,No,Unknown,Unknown,0.03,Unknown
+protein almond milk,1.5g,0.4mg,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",15mg,No,0.5g,Yes,1g,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+coconut milk,6g,0.9mg,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",22mg,No,2.2g,Yes,2.3g,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+cold coffee,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+chocolate almond milk,6g,1.2mg,"{'B1': '0.12mg', 'B2': '0.22mg', 'B3': '2.5mg', 'B6': '0.3mg', 'B9': '40µg', 'B12': '1.1µg'}",24mg,No,1g,Yes,1g,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+water + creatine,0g,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,0g,Yes,Unknown,No,No,No,Unknown,Unknown,Unknown,Unknown,Unknown
+whey shake,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+oats,60.4,4.7,"{'B1': 0.4, 'B2': 0.1, 'B3': 0.9, 'B6': 0.1, 'B9': 56, 'B12': 'Unknown'}",177,No,10.6,Yes,13.2,No,No,Unknown,No,Unknown,Unknown,Unknown,Unknown
+sweet potato,20.1,0.61,"{'B1': 0.11, 'B2': 0.07, 'B3': 1.6, 'B6': 0.21, 'B9': 11.8, 'B12': 'Unknown'}",25,No,3,Yes,1.6,Yes,No,Unknown,Unknown,Unknown,1150,Unknown,Yes
+frozen berries,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+protein granola,60,4,"{'B1': 0.5, 'B2': 0.6, 'B3': 6, 'B6': 1, 'B9': 400, 'B12': 0.5}",150,No,10,Yes,15,Unknown,Unknown,Unknown,Unknown,Unknown,100,Unknown,Unknown
+ground flax,2g,2.7mg,"{'B1': '0.3mg', 'B2': '0.2mg', 'B3': '2mg', 'B6': '0.5mg', 'B9': '87µg', 'B12': 'Unknown'}",392mg,No,27g,Yes,18g,Yes,No,Unknown,No,Unknown,Unknown,20g,Yes
+buckwheat flakes,71,2.2,"{'B1': 0.1, 'B2': 0.2, 'B3': 3.4, 'B6': 0.3, 'B9': 8, 'B12': 'Unknown'}",231,No,10,Yes,13,Yes,No,Unknown,Unknown,Unknown,110,0.35,Yes
+lentils,20,3.3,"{'B1': 0.5, 'B2': 0.2, 'B3': 2.6, 'B6': 0.4, 'B9': 181, 'B12': 'Unknown'}",36,No,8,Yes,9,Yes,No,Unknown,Unknown,Unknown,854,0.5,Yes
+almond skins,Unknown,1.1,"{'B1': 0.211, 'B2': 1.014, 'B3': 3.385, 'B6': 0.137, 'B9': 44, 'B12': 'Unknown'}",268,No,12.5,Yes,21.2,No,No,Unknown,No,Unknown,187.7,Unknown,Unknown
+barley,73g,3.6mg,"{'B1': '0.31mg', 'B2': '0.17mg', 'B3': '4.6mg', 'B6': '0.6mg', 'B9': '19µg', 'B12': 'Unknown'}",133mg,No,17g,Yes,12g,Yes,No,Unknown,No,Unknown,Unknown,Unknown,Unknown
+cooked beetroot,9,0.8,"{'B1': 0.03, 'B2': 0.04, 'B3': 0.33, 'B6': 0.07, 'B9': 109, 'B12': 'Unknown'}",23,No,2.8,Yes,1.6,Yes,No,Unknown,Unknown,Unknown,8,Unknown,Yes
+dried plums,63.9,0.93,"{'B1': 0.025, 'B2': 0.186, 'B3': 1.882, 'B6': 0.205, 'B9': 9.2, 'B12': 'Unknown'}",41,No,7.1,Yes,2.2,Yes,No,Unknown,Unknown,Unknown,45.1,Unknown,Unknown
+whey protein,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+casein,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+collagen,0g,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,0g,Yes,Unknown,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+espresso shot,0g,0.2mg,"{'B1': '0mg', 'B2': '0mg', 'B3': '0.2mg', 'B6': '0mg', 'B9': '2µg', 'B12': '0µg'}",5mg,No,0g,Yes,0.3g,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+creatine,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,No,No,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+pomegranate juice,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,['Unknown'],Unknown,Unknown,Unknown
+rooibos tea,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,Unknown,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+collagen milk,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,['Unknown'],Unknown,Unknown,Unknown
+ashwagandha,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+schisandra,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+blueberries,14.5,0.28,"{'B1': 0.04, 'B2': 0.04, 'B3': 0.42, 'B6': 0.05, 'B9': 6, 'B12': 'Unknown'}",9,No,2.4,Yes,0.7,Unknown,Unknown,Unknown,Unknown,5562,558,Unknown,Yes
+pomegranate seeds,18.7g,0.3mg,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",12mg,No,4g,Yes,1.7g,No,No,Unknown,No,Unknown,Unknown,Unknown,Unknown
+purple grapes,18.1,0.3,"{'B1': 0.07, 'B2': 0.07, 'B3': 0.188, 'B6': 0.086, 'B9': 2, 'B12': 'Unknown'}",10,No,0.9,Yes,0.6,No,No,Unknown,Unknown,Unknown,101,Unknown,Unknown
+raspberries,11.9,0.7,"{'B1': 0.032, 'B2': 0.038, 'B3': 0.598, 'B6': 0.055, 'B9': 25, 'B12': 'Unknown'}",22,No,6.5,Yes,1.5,No,No,Unknown,Unknown,Unknown,151,Unknown,Unknown
+red cabbage,5.8,0.5,"{'B1': 0.07, 'B2': 0.04, 'B3': 0.2, 'B6': 0.12, 'B9': 70, 'B12': 'Unknown'}",18,No,2.1,Yes,1.6,Yes,No,Unknown,Unknown,Unknown,65,Unknown,Yes
+acacia fiber,85g,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,80g,Yes,Unknown,Yes,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+psyllium,85g,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,88g,Yes,2g,Yes,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+oat beta-glucans,58g,4mg,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",100mg,No,10g,Yes,17g,No,No,Unknown,No,['Unknown'],50mg,0.5g,Yes
+bamboo fiber,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+chicory root,68.9,0.6,"{'B1': 0.06, 'B2': 0.15, 'B3': 0.4, 'B6': 0.07, 'B9': 0.1, 'B12': 'Unknown'}",25,No,64.6,Yes,0.8,Yes,No,No,No,Unknown,149,Unknown,Unknown
+artichoke fiber,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+jerusalem artichoke,17.44,3.4,"{'B1': 0.2, 'B2': 0.4, 'B3': 2.1, 'B6': 0.3, 'B9': 0.042, 'B12': 'Unknown'}",21,No,1.6,Yes,2,Yes,No,Unknown,No,Unknown,43,Unknown,Yes
+red lentils,50,3.3,"{'B1': 0.87, 'B2': 0.21, 'B3': 2.6, 'B6': 0.4, 'B9': 479, 'B12': 'Unknown'}",122,No,8,Yes,26,Yes,No,Unknown,Unknown,Unknown,58,0.5,Yes
+goat yogurt,4.7g,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,4.1g,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+edamame,11,2.1,"{'B1': 0.1, 'B2': 0.2, 'B3': 1.2, 'B6': 0.2, 'B9': 115, 'B12': 'Unknown'}",54,No,5,Yes,11,No,No,Unknown,No,Unknown,15,0.3,Yes
+chia & hemp,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+turmeric + pepper,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,No,No,Unknown,No,Unknown,Unknown,Unknown,['Curcumin from turmeric']
+cocoa nibs,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,No,Unknown,Yes,Unknown,Unknown,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+clove,Unknown,11.83,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",60.0,No,5.0,Yes,5.0,Unknown,No,Unknown,No,Unknown,17843,Unknown,Yes
+reishi powder,Unknown,Unknown,"{'B1': 'Unknown', 'B2': 'Unknown', 'B3': 'Unknown', 'B6': 'Unknown', 'B9': 'Unknown', 'B12': 'Unknown'}",Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown

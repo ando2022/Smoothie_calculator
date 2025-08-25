@@ -1,0 +1,51 @@
+Goal,SmoothieID,Ingredients,Flavor,Total_Score,Total_Protein,Total_Fiber
+Digestive Health,DigestiveHealth_1,"spirulina, chia seeds, broccoli, spinach water, cacao powder",earthy,132.0,9.0,15.0
+Digestive Health,DigestiveHealth_2,"lentil protein, lentils, cauliflower, schisandra, reishi powder",earthy,126.0,9.0,14.0
+Digestive Health,DigestiveHealth_3,"hemp protein, red lentils, quinoa, celery juice, cucumber-mint",earthy,125.0,11.0,15.0
+Digestive Health,DigestiveHealth_4,"goat yogurt, figs, kale, carrot juice, manuka honey",sweet,120.0,8.0,12.0
+Digestive Health,DigestiveHealth_5,"edamame, buckwheat flakes, papaya, ashwagandha, nutmeg",nutty,116.0,8.0,14.0
+Digestive Health,DigestiveHealth_6,"chia & hemp, barley, oats, oat milk, cocoa nibs",nutty,116.0,10.0,15.0
+Digestive Health,DigestiveHealth_7,"sunflower seed butter, carrot, sweet potato, watermelon juice, baobab",sweet,114.0,6.0,14.0
+Digestive Health,DigestiveHealth_8,"almond butter, jerusalem artichoke, cooked oats, cucumber juice, cacao nibs",nutty,113.0,9.0,14.0
+Digestive Health,DigestiveHealth_9,"chia + almond milk, beetroot, beet, pomegranate juice, fermented spirulina",earthy,113.0,8.0,14.0
+Digestive Health,DigestiveHealth_10,"pea protein, hemp hearts, red cabbage, rooibos tea, turmeric",earthy,110.0,9.0,12.0
+Energy,Energy_1,"spirulina, red lentils, papaya, spinach water, reishi powder",earthy,159.6,9.0,15.0
+Energy,Energy_2,"chia & hemp, lentils, broccoli, celery juice, cacao powder",earthy,152.4,10.0,15.0
+Energy,Energy_3,"goat yogurt, chia seeds, spinach, schisandra, baobab",sour,150.0,9.0,13.0
+Energy,Energy_4,"chia + almond milk, buckwheat flakes, quinoa, oat milk, fermented spirulina",nutty,144.0,11.0,14.0
+Energy,Energy_5,"hemp protein, ground hemp, kale, ashwagandha, cacao nibs",bitter,140.4,11.0,14.0
+Energy,Energy_6,"almond butter, figs, sweet potato, carrot juice, cocoa nibs",sweet,140.4,8.0,15.0
+Energy,Energy_7,"lentil protein, sauerkraut, cauliflower, cucumber juice, cucumber-mint",earthy,139.2,7.0,14.0
+Energy,Energy_8,"almond yogurt, carrot, apple, watermelon juice, manuka honey",sweet,136.8,6.0,11.0
+Energy,Energy_9,"edamame, apple skin, red cabbage, fennel tea, turmeric",earthy,134.4,7.0,13.0
+Energy,Energy_10,"skyr, jerusalem artichoke, beet, kombucha, lemon zest",sour,130.8,7.0,10.0
+Longevity,Longevity_1,"spirulina, chia seeds, kale, spinach water, cucumber-mint",earthy,158.4,9.0,15.0
+Longevity,Longevity_2,"goat yogurt, lentils, quinoa, schisandra, baobab",sour,154.8,11.0,13.0
+Longevity,Longevity_3,"lentil protein, figs, red cabbage, celery juice, reishi powder",earthy,147.6,7.0,15.0
+Longevity,Longevity_4,"chia & hemp, carrot, sweet potato, carrot juice, cacao powder",sweet,146.4,7.0,15.0
+Longevity,Longevity_5,"almond butter, beetroot, broccoli, cucumber juice, fermented spirulina",earthy,139.2,10.0,13.0
+Longevity,Longevity_6,"chia + almond milk, red lentils, spinach, oat milk, turmeric",earthy,139.2,9.0,14.0
+Longevity,Longevity_7,"almond yogurt, almond skins, papaya, ashwagandha, cacao nibs",bitter,138.0,8.0,13.0
+Longevity,Longevity_8,"hemp protein, buckwheat flakes, oats, kombucha, cocoa nibs",nutty,136.8,10.0,13.0
+Longevity,Longevity_9,"skyr, apple skin, apple, pomegranate juice, ginger",fruity,135.6,7.0,12.0
+Longevity,Longevity_10,"edamame, dried plums, purple grapes, bone broth, manuka honey",sweet,133.2,9.0,11.0
+Muscle,Muscle_1,"spirulina, chia seeds, quinoa, spinach water, turmeric",earthy,235.8,10.0,14.0
+Muscle,Muscle_2,"chia & hemp, red lentils, broccoli, celery juice, reishi powder",earthy,228.6,10.0,15.0
+Muscle,Muscle_3,"goat yogurt, ground hemp, apple, schisandra, baobab",sour,223.2,9.0,13.0
+Muscle,Muscle_4,"lentil protein, lentils, papaya, carrot juice, cucumber-mint",earthy,219.6,9.0,15.0
+Muscle,Muscle_5,"almond yogurt, almond skins, kale, cucumber juice, cacao powder",bitter,214.2,8.0,13.0
+Muscle,Muscle_6,"chia + almond milk, figs, sweet potato, fennel tea, manuka honey",sweet,207.0,6.0,12.0
+Muscle,Muscle_7,"hemp protein, buckwheat flakes, oats, pomegranate juice, fermented spirulina",nutty,207.0,11.0,14.0
+Muscle,Muscle_8,"edamame, carrot, dates, oat milk, fennel seeds",sweet,201.6,7.0,15.0
+Muscle,Muscle_9,"almond butter, barley, cooked oats, ashwagandha, cocoa nibs",nutty,199.8,10.0,14.0
+Muscle,Muscle_10,"skyr, beetroot, red cabbage, rooibos tea, lemon zest",earthy,198.0,7.0,10.0
+WeightManagement,WeightManagement_1,"spirulina, lentils, papaya, schisandra, cucumber-mint",earthy,198.0,9.0,14.0
+WeightManagement,WeightManagement_2,"chia & hemp, chia seeds, quinoa, spinach water, cardamom",nutty,189.0,10.0,14.0
+WeightManagement,WeightManagement_3,"hemp protein, red lentils, broccoli, celery juice, cacao powder",earthy,186.0,10.0,15.0
+WeightManagement,WeightManagement_4,"goat yogurt, apple skin, apple, pomegranate juice, reishi powder",fruity,180.0,7.0,14.0
+WeightManagement,WeightManagement_5,"almond yogurt, carrot, sweet potato, carrot juice, baobab",sweet,175.5,6.0,14.0
+WeightManagement,WeightManagement_6,"chia + almond milk, ground hemp, oats, cucumber juice, fermented spirulina",nutty,174.0,11.0,13.0
+WeightManagement,WeightManagement_7,"edamame, sauerkraut, kale, ashwagandha, cacao nibs",bitter,174.0,9.0,14.0
+WeightManagement,WeightManagement_8,"lentil protein, buckwheat flakes, mango, rooibos tea, turmeric",earthy,169.5,8.0,12.0
+WeightManagement,WeightManagement_9,"skyr, figs, frozen berries, kombucha, tart cherry juice",sour,168.0,7.0,11.0
+WeightManagement,WeightManagement_10,"almond butter, beetroot, red cabbage, oat milk, mint",earthy,166.5,7.0,14.0
